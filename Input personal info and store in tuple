@@ -1,0 +1,6 @@
+
+a=int(input("Enter the aadhar card number"))
+b=int(input("Enter the PAN card number: "))
+c=int(input("Enter the account number: "))
+tup=(a,b,c)
+print(a)

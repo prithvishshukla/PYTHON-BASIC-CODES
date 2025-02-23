@@ -1,0 +1,7 @@
+tup=(1,2,3,4)
+y=list(tup)
+print(y)
+y[1]=200
+print(y)
+t1=tuple(y)
+print(t1)

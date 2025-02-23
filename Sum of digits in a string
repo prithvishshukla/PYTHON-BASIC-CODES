@@ -1,0 +1,7 @@
+total='1234'
+n1=int(total[0])
+n2=int(total[1])
+n3=int(total[2])
+n4=int(total[3])
+sum_digits=n1+n2+n3+n4
+print(sum_digits)

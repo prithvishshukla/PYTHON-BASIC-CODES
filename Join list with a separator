@@ -1,0 +1,3 @@
+l=['p','y','t','h','o','n']
+joined='^'.join(l)
+print(joined)

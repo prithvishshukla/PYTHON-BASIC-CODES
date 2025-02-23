@@ -1,0 +1,6 @@
+# Simple Interest calculation
+a=int(input("enter p:"))
+b=int(input("enter t:"))
+r=5
+s=(a*b*r)/100
+print("SI is:",s)

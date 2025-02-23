@@ -1,0 +1,7 @@
+# Input and check type of variable
+a=input('Enter the first number')
+print(type(a))
+
+# Complex number type
+#a=3+2j
+#print(type(a))

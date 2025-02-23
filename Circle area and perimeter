@@ -1,0 +1,7 @@
+
+a = int(input("Enter radius: "))
+area = 3.14 * a * a
+perimeter = 2 * 3.14 * a
+print("Area and perimeter of circle:")
+print("Area:", area)
+print("Perimeter:", perimeter)

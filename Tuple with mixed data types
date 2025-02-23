@@ -1,0 +1,5 @@
+
+tup=(1,2,3,5.5,'san')
+print(tup)
+print(type(tup))
+print(tup[3])

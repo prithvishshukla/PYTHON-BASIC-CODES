@@ -1,0 +1,10 @@
+
+a='I Like Python'
+print(a[7:13])
+print(a[-16:-1])
+print(a[ : :-1])
+print(a[ : :1])
+print(a[8:-1])
+print(a[-6])
+print(a[5])
+print(a[7])

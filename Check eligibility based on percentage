@@ -1,0 +1,10 @@
+
+a=int(input("Enter physics marks: "))
+b=int(input("Enter chemistry marks: "))
+c=int(input("Enter maths marks: "))
+s=a+b+c
+percentage=s*100/300
+if percentage >= 90:
+    print("Eligible for AKTU")
+else:
+    print("Not eligible")

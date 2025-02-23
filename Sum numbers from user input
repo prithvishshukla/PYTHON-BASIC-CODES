@@ -1,0 +1,8 @@
+
+s=input("Enter numbers separated by commas: ")
+l=s.split(',')
+a=int(l[0])
+b=int(l[1])
+c=int(l[2])
+result=a+b+c
+print(result)

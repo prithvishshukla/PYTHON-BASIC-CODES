@@ -1,0 +1,6 @@
+a=5
+b=50
+c=500
+print(bin(a)) 
+print(bin(b))
+print(bin(c))

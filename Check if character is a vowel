@@ -1,0 +1,3 @@
+p=input("Enter character: ")
+l=p.lower()
+print(l in 'aeiou')

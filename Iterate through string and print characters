@@ -1,0 +1,4 @@
+
+a='keshav'
+for i in a:
+    print(i)

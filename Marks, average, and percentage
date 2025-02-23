@@ -1,0 +1,11 @@
+
+a=int(input("enter phy marks:"))
+b=int(input("enter chem marks:"))
+c=int(input("enter maths marks:"))
+s=a+b+c
+av=s/3
+per=s*100/300
+print("*****report******")
+print("sum=",s)
+print(f"Average={av:=.2f}")
+print("percent=",per)

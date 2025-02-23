@@ -1,0 +1,6 @@
+
+a='keshav'
+vowels = 'aeiou'
+for char in a:
+    if char in vowels:
+        print(char)

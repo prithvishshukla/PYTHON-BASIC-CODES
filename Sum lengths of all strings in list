@@ -1,0 +1,6 @@
+
+l=['ram','mohan','sita']
+s = 0
+for i in l:
+    s= s+len(i)
+print(s)

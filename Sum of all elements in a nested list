@@ -1,0 +1,4 @@
+
+l = [[1, 2, 3, 4], [7, 6, 3, 2]]
+total_sum = sum(sum(sublist) for sublist in l)
+print("The total sum is:", total_sum)

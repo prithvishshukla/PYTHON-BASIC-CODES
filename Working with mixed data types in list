@@ -1,0 +1,7 @@
+
+lst=['ram',1,'sita',2.5]
+#print(lst[1:3])  # Slice list
+a=lst[2]
+#print(type(a))  # Check type
+#print(a[2])  # Access character in string
+#print(lst[::-1])  # Reverse list

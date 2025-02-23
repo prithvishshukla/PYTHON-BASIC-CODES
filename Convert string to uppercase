@@ -1,0 +1,4 @@
+
+a='keshav'
+uppercase=a.upper()
+print(uppercase)

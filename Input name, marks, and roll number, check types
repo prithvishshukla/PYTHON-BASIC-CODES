@@ -1,0 +1,8 @@
+
+a=input("Enter your name")
+b=int(input("Enter marks"))
+c=input("Enter your RN")
+lst=[a,b,c]
+print(type(a))
+print(type(b))
+print(type(c))

@@ -1,0 +1,6 @@
+
+s=input("Enter character: ")
+if ord(s) >= 65 and ord(s) <= 90:
+    print("Upper case")
+else:
+    print("Lower case")

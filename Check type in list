@@ -1,0 +1,6 @@
+
+l = [1,2,'san','tan']
+if type(l[2]) == str:
+    print(l[0], str(l[1]), l[2], str(l[3]))
+else:
+    print(l)

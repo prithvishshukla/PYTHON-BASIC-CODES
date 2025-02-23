@@ -1,0 +1,6 @@
+
+a=input("Enter the alphabet: ")
+if a in 'ieaouAEIOU':
+    print("vowel")
+else:
+    print("consonant")

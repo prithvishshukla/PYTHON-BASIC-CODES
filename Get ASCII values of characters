@@ -1,0 +1,5 @@
+a='SAN'
+print(ord('S'))
+print(ord('A'))
+print(ord('N'))
+#print(ord('S*A*N'))  # Invalid, will cause error

@@ -1,0 +1,11 @@
+
+lst=[1,2,3,4]
+length=len(lst)
+print(length)'''
+'''# Sum and power from user input
+n=input("Enter numbers: ")
+l=n.split()
+s=int(l[0]) + int(l[1])
+a=len(l)
+result=s**a
+print(result)
